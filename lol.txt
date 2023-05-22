@@ -1,0 +1,22 @@
+Cabin 1 : Pasindu : 1
+Cabin 2 : Kantha : 1
+Cabin 3 : Bokka : 1
+Cabin 4 : Baka : 1
+Cabin 5 : Bokka : 1
+Cabin 6 : Wasanthi : 1
+Cabin 7 : Kanthi : 1
+Cabin 8 : Pusi : 1
+Cabin 9 : Laka : 1
+Cabin 10 : Hora : 1
+Cabin 11 : Vihari : 1
+Cabin 12 : Latha : 1
+
+
+
+|----------------------------------------------------|
+|                       PATTERN                      |
+|----------------------------------------------------|
+|Room condition(R.C.): If 1, there is already a guest|
+|          E: Expenses;         C: Customer          |
+|   R.C  :  [1st C]  :  [2nd C]  :  [3rd C]  :  [E]  |
+|----------------------------------------------------|
